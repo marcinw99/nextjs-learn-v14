@@ -6,3 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Whoever is cloning this, it's a fork from next.js/learn repo, please do not review this repo. 
 I beg you
+
+
+Live: https://nextjs-learn-v14-two.vercel.app/
